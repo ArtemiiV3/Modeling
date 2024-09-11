@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/client.dir/src/client.c.o -o client   -L/opt/homebrew/opt/zeromq/lib  -Wl,-rpath,/opt/homebrew/opt/zeromq/lib -lzmq 

@@ -1,0 +1,4 @@
+/Users/artemijvereteno/Desktop/proga/4 curce/build/CMakeFiles/server.dir
+/Users/artemijvereteno/Desktop/proga/4 curce/build/CMakeFiles/client.dir
+/Users/artemijvereteno/Desktop/proga/4 curce/build/CMakeFiles/edit_cache.dir
+/Users/artemijvereteno/Desktop/proga/4 curce/build/CMakeFiles/rebuild_cache.dir
